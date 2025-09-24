@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/SAB/refs/heads/main/AtomicJusticeHub", true))()
